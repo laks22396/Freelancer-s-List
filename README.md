@@ -17,6 +17,7 @@ ASP.NET Core Web App (Model-View-Controller) -(C#) - For building an MVC Client 
 Used Entity Framework
 Database- SQL Server
 pacakges- Microsoft.EntityFrameworkCore.SqlServer for SQL Server, Microsoft.EntityFrameworkCore.Tools
+The migrations are already there in the CdnFreelancersAPI project inside the Migartions folder. Other than that I have also added the database script inside the database script folder
 
 --------------------------------Usage----------------------------------------------------
 The users tab contains the list of freelancers stored in the database.
